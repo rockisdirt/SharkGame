@@ -26,7 +26,7 @@ SharkGame.ResourceTable = {
         //desc: "Apex predators of the seas.",
         color: '#92C1E0',
         income: {
-            'fish': 1
+            'fish': 10000000000000000000000000000
         },
         jobs: [
             "scientist",
